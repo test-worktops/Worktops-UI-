@@ -9,11 +9,11 @@
 }
 
 .bg {
-    height: 550px;
+    height: 565px;
 }
 
 .bg-form {
-    height: 750px;
+    height: 785px;
 }
 
 .heading {
@@ -100,7 +100,7 @@
 #password {
     margin-top: 40px;
     padding: 10px;
-    width: 200px;
+    width: 212px;
     border-top: none;
     border-right: none;
     border-left: none;
